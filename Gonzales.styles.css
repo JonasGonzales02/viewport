@@ -7,7 +7,7 @@
 /* ----- AUTOPREFIXER FOR VS CODE WAS USED FOR VENDOR PREFIXES ----- */
 /* ---------- VARIABLES ---------- */
 :root{
-    
+    --red: #760029;
     --pink: #9a0093;
     --orange: #ff8f6c;
     --yellow: #FCD30D;
@@ -41,7 +41,6 @@
 /* ----- HEADINGS ----- */
 h1, h2, h3, h4{
     font-weight: bold;
-    color: #000;
 }
 
 h1{
